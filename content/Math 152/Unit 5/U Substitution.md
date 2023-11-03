@@ -1,0 +1,29 @@
+## 5.5
+- ### the substation rule for indefinite integrals 
+	- ##### this is just u sub
+		- ![[Pasted image 20230915083940.png]]
+			- The reverse chain rule
+	- ##### ex.
+		- ###### a) $\int x^2(x^3+5)^9 \, dx$
+		- => let u = $x^{3+5}\therefore du=3x^{2}dx$
+			- => $\int \frac{1}{3}u^9 \, du$
+				- => $\frac{1}{3} {\frac{u^{10}}{10}}+c\implies \frac{1}{3}{\frac{{x^3+5}^{10}}{10}}+c$
+		- ###### b) $\int {\frac{1}{\sqrt{ 3-5t }}} \,  dt$
+			- => let u = $u = 3-5t\implies du=-5dt$
+				- =>$\int {-\frac{1}{5}{\frac{1}{\sqrt{ u }}}} \, du$
+					- => ${-\frac{2}{5}u^{1/2}}+c$
+						- => $-\frac{2}{5}\sqrt{ 3-5t }+c$
+		- ###### c) $\int \sin(3t) \, dt$
+			- => $u=3t\implies du=3dt$
+				- =>$\frac{1}{3}\int \sin (u) \, du$
+		- ###### d) $\int \frac{z^2}{\sqrt{ 1-z }} \, dz$
+			- $\implies u=1-z\implies du=-dz\implies z=izu$
+				- $-\int  \frac{z^2}{\sqrt{ u }}\, du\implies-\int \frac{{1-u}^2}{\sqrt{ u }} \, du$
+					- =>$-\int u^{-1/2}*(1-2u+u^2)* \, du$
+						- =>$-2u^{1/2}+\frac{4}{3}u^{3/2}-\frac{2}{5}u^{5/2}+c$
+- ### The substitution rule for definite integral
+	- ![[Pasted image 20230915090158.png|565]]
+		- ###### Instead of going bac to the original variable we can just plug in the output values of  "u"
+	- ##### Ex.
+		- ###### a) $\int _{\pi}^{2\pi}\cos{3}t \, dt$
+			- $\implies u=3t\implies du=3dt$

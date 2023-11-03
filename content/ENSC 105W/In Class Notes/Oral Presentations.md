@@ -1,0 +1,67 @@
+
+# Quiz material for [[ENSC 105W]]
+## Practical strategies for the effective use of power point
+- #### Have page numbers
+	- easier for questions
+- #### Always update the date
+	- make sure it is also accurate
+- ### Audience Analysis
+	- #### Only use animations when they are appropriate
+	- ### PANE
+		- #### Power: 
+			- peers, supervisors?
+		- #### Age: 
+			- Vision and hearing
+		- #### Needs
+			- money, environments, politics
+		- #### Expertise
+			- high, moderate, low?
+	- ### OR, CAMP
+		- #### Capability:
+			- what is the capability of the audience
+		- #### Attention:
+			- how will you gain their attention
+		- #### Motivation:
+			- why should they listen to you
+		- #### Perception:
+			- does audience perceive your goals
+	- #### Where are you presenting?
+		- ###### Small, medium, or large
+		- ###### External vs internal lighting
+			- Without windows: long as the font contrast with the background, your choice doesn't matter much in rooms without windows
+			- With windows a dark background with light fonts is often most effective
+	- #### Dealing it technology
+		- arrange for equipment well in advance
+		- arrive early and setup
+		- use standard fonts
+		- be cautious with trying new techniques
+		- always make backups!!!!
+	- #### Powerpoint cant handle
+		- page reductions
+		- complex circuits or big math
+		- lengthy instructions
+	- #### Team presentations
+		- ###### plan as a team
+		- ###### share content
+			- one persoin should pull eveything together
+			- beweare of os/application incompatibliities
+			- everyone should review the completed presentation 
+		- ###### Rehearse 
+		- ###### Final check for spelling
+
+### Key Expectations
+- #### A clear statment
+	- of what the project is and why you are doing it.
+- #### Asummary of what has been achived so far
+	- , including any difficulties
+- #### Guidelines for animations and sounds
+	- Animatia
+- #### ORganizing your presentation
+	- ###### ttital slide
+		- name, group name
+	- ###### Organazire slide
+		- show what will be covered
+	- ###### Background for project
+	- ###### body of the presentation
+	- ###### Conclutision/summary
+	- ###### Acknolagment 

@@ -1,0 +1,50 @@
+
+# Unit 8.1 of [[Math 152]]
+
+## example
+- #### EX1 Find the slope of the tangent to the asteroid $x=a\cos^3\theta$, $y=a\sin^3\theta$ as a function of the parameter $\theta$ 
+	- $\frac{dy}{dx}=\frac{y'(\theta)}{x'(\theta)}=\frac{{3a\sin ^3\theta \cos \theta}}{-3a\cos^3\theta \sin \theta}$
+		- => $-\tan \theta$
+			- ###### At what point is the tangent is horizontal 
+				- $-\tan \theta=0\implies \sin \theta=0$
+					- => $\theta=0,\pi$
+			- ###### At what point is the tangent vertical
+				- $\cos \theta=0\implies \theta = \frac{\pi}{2}, \frac{3\pi}{2}$
+			- ###### at what point is slope = 1
+				- $-\tan \theta=1\implies \theta= \frac{3\pi}{4}, \frac{7\pi}{4}$
+			- ###### at what point is slove equal to -1
+				- $-\tan \theta=-1\implies \theta=\frac{\pi}{4}$
+- #### Ex 2, find the area under on arch of the cycloid
+	- ###### Area
+		- $x=r(t-\sin t),y=r(1-\cos t),0\leq t\leq 2\pi$
+			- $A=\int _{0}^{2\pi}y(x) \, dx=\int _{0}^{2\pi}y(t)x'(t) \, dx$
+				- $/ \int _{0}^{2\pi}r(1-\cos t)r(1-\cot) \, dt$
+					- => $r^2\int _{0}^{2\pi}1-2\cos t+\cos^2t \, dt$
+						- => $r^2\left( t-2\sin t+\frac{1}{2}t+\frac{1}{4}\sin{2}t \right)|_{0}^{2\pi}$
+							- => $r^23\pi$
+	- ###### Arc length 
+		- L=$\int _{0}^{2\pi} \sqrt{ x'(t)^{2}+y'(t)^2 }\, dt$ => $\int _{0} ^{2\pi}\sqrt{ r^{2}(1-\cos t)^{2}+r^{2}\sin^{2}t }\, dt$
+			- => $r\int_{0}^{2\pi} \sqrt{ 1-2\cos t+\cos^{2}t+\sin^{2}t } \, dt$ => $r\int _{0}^{2\pi} \sqrt{ 2-2\cos t }\, dt$
+				- => $r\int _{0}^{2\pi} \frac{2\sin t}{2}, dt$
+					- = 8t
+- #### Ex 3 Find the surface area
+	- $x=3t-t^{3}$, $y=3t^2$,$0\leq t\leq 1$
+		- $A=\int _{0}^{1}2\pi{3t^2}\sqrt{( 3-3t^2 )^{2}+(6t)^2} \, dt$
+			- $6\pi \int _{0}^{1}t^{2}\sqrt{ 9+9t^{4}-18t^{2}+36t^{2} } \, dt$
+				- => $6\pi \int _{0}^{1}t^{2}\sqrt{ (3+3t^2)^2 } \, dt$
+					- => $18\pi \int _{0}^{1} t^{2}+t^{4} \, dt$
+						- =$\frac{48}{5}\pi$
+- #### Ex 4 Polar coordinate are parametric equastions
+	- $r=1+\cos \theta$
+		- $x'=r'(\theta)\cos \theta-r(\theta)\sin \theta$
+		- $y'=r'(\theta)\sin \theta+r(\theta)\cos \theta$
+			- $\sqrt{ (r'\cos \theta-r\sin \theta)^{2}+(r'\sin \theta+r\cos \theta)^2 }d\theta$
+				- => $\sqrt{ r'\cos^{2}\theta+r^{2}\sin^{2} \theta -2rr'\cos \theta \sin \theta +r'^{2}\sin^{2}\theta+r^{2}\cos^2\theta+ }$
+					- ###### finding the area using the equasion 
+						- $L=\int _{0}^{2\pi}(\sqrt{ \sin^{2}\theta+(1+\cos \theta)^2 }) \, d\theta$
+							- = 8
+					- ###### finding the volume of revolution
+						- A=$\int _{0}^{\pi}2\pi r(\theta)\sin \theta \sqrt{ 2+2\cos \theta } \, d\theta$
+							- => $2\pi\int_{0}^{\pi}(1+\cos \theta)\sin \theta \sqrt{ 2+2\cos \theta }  \, d\theta$
+								- => $-2\pi \int _{2}^{0}u\sqrt{ 2u } \, du$
+									- =>$\frac{8\pi}{5}$

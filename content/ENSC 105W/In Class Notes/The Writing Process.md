@@ -1,0 +1,60 @@
+
+# Possible Quiz Material for [[ENSC 105W]]
+
+## Learning Objectives
+- ### Threshold Concepts
+	- ##### Threshhold concepts are concepts that appear strange, contradictory, or counter-intuitive, but are critical to understanding
+		- ###### Term dervives from the field of sociology
+		- ###### Threshhold concepts often become blocks that can get in the way
+		- ###### For this course, some of theese are found in terms such as 
+			- Audience
+			- persuasion
+			- tone
+			- contraries
+			- strategies and process
+		- ###### We will identify these key concepts throught the course
+		- 
+- ### Rule vs strategy based writing
+	- #### Choose strategies rather than rules
+		- ###### Rule based approach to writing:
+			- experience of failure
+				- writers block or dislike of writing
+		- ###### STrategy based approach to writing
+			- exprience of seccess
+				- break the rules as needed to achive the goalds required by a document
+- ### Uniqueness of your writing process
+	- #### Determined by four factors
+		- ###### Your usual practices when writing
+		- ###### Your enviroment while writing
+		- ###### Your attutude towards writing
+		- ###### You audineces potetial responces
+			- ![[Pasted image 20231001152213.png]]
+- ### The writing is interative
+	- #### Writing process as a linear progression 
+		- ![[Pasted image 20231001152320.png]]
+	- #### Writing as an interative process
+		- ![[Pasted image 20231001152353.png|181]]
+			- #### Writing as a process
+				- ###### Prewriting
+					- generating ideas, understanding
+				- ###### Planning
+					- organising ideas and focusing
+				- ###### Drafting
+					- writing initial drafts
+				- ###### Reflaction
+					- letting work sit coming back to it later 
+				- ###### Peer review
+					- feedback from others
+				- ###### revision
+					- further develping and claifying ideas
+				- ###### editing and proofreading
+			- ![[Pasted image 20231001153223.png]]
+- ### The importance of efficiency when writting
+- ### A key difference between expert and novice writers
+	- #### one of the biggest diffrenceses between novices and experienced writers are the time splits-
+		- ![[Pasted image 20231001153844.png|436]]
+	- #### The three P's
+		- ![[Pasted image 20231001154016.png|480]]
+		- ### Dont think to write, write to think
+- ### Experminment with caution
+- 

@@ -1,0 +1,31 @@
+# Unit 7.1 of [[Math 152]]
+## Definition
+- ### The integral version of the product rule
+	- ##### The definition
+		- ![[Pasted image 20230926170604.png|477]]
+			- ###### This is quite convoluted so it can be simplified
+				- by letting $u=f(x)$ and $v=g(x)$ then the differentials being $du=f'(x)$ and $dv=g'(x)$ and thus simplifying down to 
+					- ![[Pasted image 20230926170940.png|278]]
+	- #### ILATE rule
+		- ###### Some times it can be very hard to tell what to use as v and u, but the ILATE rule solves that by using an order of opperations for chosing the simplest integrand
+			- ![[Pasted image 20230926171213.png|241]]
+- ### Complications1 in integration
+	- #### Once you applied integration by parts and if your left with another integral you have to integrate by parts 
+		- ##### The easy scenario
+			- you integrate by parts again and check if any where in the integral it is the same integral you started with, if so you can just move the newly formed identical integral so there is two of the starting integrals and divide the rest of the by 2 and add a constant C and your done 
+				- ###### Ex. $\int \cos(\ln x) \, dx$
+					- This on e is Slightly speacial because we first must make it a product of two functions first! 
+						- first use u sub to make ln x to two fuctions $t=\ln x$ => $e^t=x$ => $dx=e^{t}dt$ 
+							- => $\int \cos(t) e^{t}\, dt$ 
+								- now we can integrate by parts, let: $u=\cos t,dt=-\sin t$ dt and $dv=e^{t}dt$ $v=e^{t}$ 
+									- => $\int \cos t*e^{t} \, du=\cos t*e^{t}-\int e^{t}*(-\sin t) \, du$  
+										- ###### We have another integral where if we use integration by parts again we would get to the original integral from the start
+											- => let $u=\sin t$ $du=\cos t$ and $v=e^{t}$ $dv=e^{t}dt$
+												- $\cos t*e^{t}+\left( \sin t*e^{t}-\int e^{t}*\cos t* \, dt \right)$ this is the original integral  so we move it to the left and solve
+													- =>$\int \cos(\ln x) \, dx=\frac{x}{2}(\cos(\ln x)+\sin(\ln x)) + C$
+		- ##### The not fun scenario 
+			- you first check if you can integrate by parts like the easy scenario again, if not and your left with a diffirent integral you must go back to the original integral and integrate by parts again, but instead you must change U and V and integrate again,
+				- Then you must change the new or old integaral by parts so that the integral cancels out, then add both Is together
+					- ###### Ex. $\int e^{x}\sin \pi x  \, dx$
+						- 
+			- 

@@ -1,0 +1,32 @@
+## 6.1
+- ### Areas between curves
+	- #### we can think of it as removing using the bottom function the "overshoot" of the top functions integral/area
+		- $A=\int _{a}^{b}f(x)-g(x) \, dx$
+			- f(x) is the top function, g(x) is the bottom function
+		- ##### Ex. 
+			- ###### a. $y=2-x^2$ , $y=x^2$
+				- find the intersection points => $2-x^2=x^2$
+					- => $x=\pm_{1}$
+						- => $A=\int_{-1}^{1}2-x^2-x^2 \, dx$
+						- since its an even function we can simplify it as $4\int _{0}^{1}1-x^2 \, dx$ 
+						- = $2 \frac{2}{3}$
+			- ###### b.  $y=6-x^2$, $y=x$
+				- the intersection points => $x=6-x^2$
+					- => x=-3 or x=2
+						- $A = \int _{-3}^{2}(6-x^2)-x \, dx$
+			- ###### c. solving to respect to x $y=\frac{x}{2}$ $y^2=8-x$ 
+				- We can solve for x and make the integral with respect to y
+					- $8-y^2=2y$ 
+						- y=-4 or y=2
+							- split the function when the top function changes
+								- $A_{1}=\int _{-8}^{4}\left( \frac{x}{2} \right)-(-\sqrt{ 8-x }) \, dx$
+								- $A_{2}=\int _{4}^8\sqrt{ 8-x }-(-\sqrt{ 8-x }) \, dx$
+									- $\therefore A=\sum_{A}$ 
+	- #### How to now what is the top function
+		- ###### 1. where is f(x)=g(x
+			- ###### 2. on that interval plug in a "c" then use the bigger number
+	- #### Solving area between two curves but to respect to y
+		- ##### Ex. 
+			- ###### a $y=\frac{x}{2}$, $y^2=8-x$
+				- finding the top function 
+				-  

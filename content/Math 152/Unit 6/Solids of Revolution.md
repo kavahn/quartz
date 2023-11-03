@@ -1,0 +1,45 @@
+## 6.3 
+- ### using the same idea of [[Volumes of integrals]] 
+	- #### But now revolving it around an axis instead of perpendicular 
+- ### Solids of revolution 
+	- ##### Discs
+		- ##### Ex
+			- ###### A. $y=\sin x,x=\frac{\pi}{2}and,y=0$ 
+				- looking at the cross sections we know that the crosssection is a disc and the radius is sin(x)  $\therefore$ $A(x) = \pi \sin^2x$
+					- $V=\int _{0}^{\frac{\pi}{2}} A(x) \, dx\implies \pi \int _{0}^{\pi/2} \sin^2x\, dx$
+						- we cant integrate that :( so we use a trig identity
+							- $\cos{2}x =2\cos^{2}x-1\implies \cos^{2}x=\frac{{\cos_{2}x+1}}{2} \implies \sin^{2}x = 1-\cos^{2}x=\frac{{1-\cos{2}x}}{2}$
+								- $\pi \int _{0}^\frac{\pi}{2}{\frac{1}{2}} \, dx$
+			- ###### B. $y=\sqrt{ x },y=1,x=0$
+				- to find volume about the y axis
+					- Again we get a disc with the radius $y^2$ 
+						- $A(y)=(y^2)^2*\pi=\pi y^{4}$
+							- => $V=\int _{0}^{1}\pi y^4 \, dy\implies \frac{\pi}{5}$
+	- #### Washers
+		- ##### EX
+			- ###### A, volume of the solid between y=x and y=x^3 along the lines of y=3 x=2
+				-  to find the integral we must find the area, and that area is definded by the "gap" minus the area
+					- $A(x)=\pi(3-x^3)^{2}-\pi(3-x)^2$
+						- $V=\int _{0}^{1}\pi(x^6-6x^3-x^2+6x) \, dx$
+				- now about the y axis
+					-  $A(y)=\pi(2-y)^2-(2-y^1/)$
+			- ##### 3d washers (torus)
+				- to setup the integral for the volume of a torus we will need to know small radious of the circle inside then the R raduis for the volume of revolution it self
+					- we can solove that using the circle equation $x^2+y^2=r^2$
+						- thus we can deduce that the equation is $(x-R)^{2}+y^2=r^2$ big R is the vertical translation to the right 
+							- => $x={R\pm \sqrt{ r^2-y^2 }}$ 
+								- To get the transation of the integral we need to know what our outer raduis and inner radius is, we know that R is from the center point to the midle of the circle, so we can use minus R to get the inner and plus R to get the outer
+									- $V=\int _{-r}^{r}\pi(R+\sqrt{ r^2-y^2})^2-\pi(R-\sqrt{ r^2-y^2 })^2 \, dx$
+	- #### Shell method 
+		- ##### Def. 
+			- ###### We use cylanders that its area of 2$\pi$x in length and f(x) in height
+				- now we can une a idntegral
+					- $V=2\pi \int _{a}^{b}xf(x) \, dx\implies \int _{a}^b A(x)\, dx$
+		- ##### Ex.
+			- ###### 1. find the volume of the solid obtained by rotating about the y-axis the region bounded by curves
+				- $y=3x^2-x^3$ and y =0
+					- $V=\int _{0}^{3}2\pi x(3x^2-x^3) \, dx$
+						- => $2\pi \int _{0}^{3}3x^3-x^4\, dx$
+							- => $2\pi\left( \frac{3}{4} x^4-{\frac{x^5}{5}}\right)$
+			- ###### 2. samething but with two functions
+				-  find the diffrence between the two the n use the integral wawawawaaw

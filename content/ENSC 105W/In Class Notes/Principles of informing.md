@@ -1,0 +1,42 @@
+
+## Maximizing communication
+- #### Communication
+	- ###### When writing you must consider the reader as only you know what you mean when you originally wrote it
+		- *maximize* overlap of reader and writiecr
+			- ###### The overlap is 
+				- personal style
+				- disciplinary style
+				- cognitive style
+- ## Stratigies 
+	- #### 1. Minimizing memory load
+		- ###### Humans can easily memorize in short term memory the 7 +- 2
+			- IE sentance structure
+	- #### 2. creating order
+		- ##### sort things into groups
+			- ###### you have to make things linear
+				- turning things from pararlel to linear
+			- ###### Organizing lists
+				- make listis parrallel
+				- ensurre that all the items have somthing in common
+				- dont make it too big
+			- ###### using relational language
+			- ###### 4. Organizing Instructions
+	- #### 3. Using conventional forms
+		- ###### Diffrent types of writing for diffrent audences
+			- buisness letters
+			- experimints
+			- legal
+			- *Report Genres*
+				- 1. prefatory pages
+					- title page
+					- abstract or executive summary
+					- table of contents
+				- 2. body of document
+					- introduction
+					- background discussion
+					- recommendationns
+					- cunclutions
+				- 4 appended pages
+					- references
+	- #### 7. KISS
+		- ### Keep it simple stupid

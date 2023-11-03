@@ -1,0 +1,35 @@
+## 5.1 
+- ### The area problem
+	- ##### Using rectangles we can approximate the area under the curve
+		- $W_{1}*H_{1}=A_{1}$ => $\sum_{A}=A_{1}+A_{2}+A_{3}\dots.$
+		- Left Rectangles for an under approximation for increasing intervals
+		- Right Rectangles for an over approximation for increasing intervals
+- ### The distance problem
+	- ##### We can use integrals to get total distance traveled from velocity 
+		- $\int v(t) \, dt=d(t)$
+	- ##### we can use integrals to get velocity from the acceleration
+		- $\int a(t) \, dx=v(t)$
+- ### Ex.
+	- ###### problem 1: let $I=\int _{1}^{2}x^{2}e^{-x} \, dx$ 
+		- ###### a. use right hand riemann sums with n=4 to approx
+			- $\Delta=\frac{{2-1}}{4}=0.25$
+				- => $R_{4} =\Delta \sum_{i=1}^{4}f(x_{i})=\frac{1}{4}((1.25)^{2}e^{-1.25}+(1.5)^{2}e^{-1.5}+(1.75)^{2}e^{-1.75}+2^{2}e^{-2})$
+		- ###### b. is your estimate from part a on over or underestimate
+			- (if the integrand is increasing on the interval it is an overestimate, but if its decreasing its an understate)
+				- $\frac{d}{dx}x^{2}e^{-x}\implies 2xe^{-x}-x^{2}e^{-x}\implies(2x-x^2)e^{-x}$ this is > 0 so f is increasing
+					- it is an **over estimate**
+		- ###### c. let Ln, Rn be the nth left and right riemann sum, what is Ln -Rn? (Ln is left and Rn is right riemann sum)
+			- $Ln=\Delta \sum_{i=1}^{n}f(x_{i-1})$ $Rn=\Delta \sum_{i=1}^{n}f(x_{i})$
+				- -> $Ln-Rn=\Delta \sum_{i=1}^{n}f(x_{i-1})-f(x_{i})\implies\Delta(f(x_{a})-f(x_{n}))=\frac{1}{n} (e^{-1}-4e^{-2})$
+	- ###### Problem 2: interet the following limit as an integral in order to evaluate it:
+		- 
+
+## 5.2
+- ### The limit definition of an integral
+	- #### $\int_{a}^{b}f(x) \, dx=\lim_{ n \to \infty }\sum^n_{i=1}f(x_{i})\Delta x$
+	- Assuming that $f$ is integrable on $[a,b]$
+	- ![[Pasted image 20230914114040.png|284]]
+- ### The midpoint rule
+	-   We often choose the sample point $x_{i}$ to be the right endpoint of the ith subinterval because it is convenient for computing the limit. But if the purpose is to find an approximation to an integral, it is usually better to choose $\overline x_{i}$ to be the midpoint of the interval, which we denote by $x_{i}$. Any Riemann sum is an approximation to an integral, but if we use midpoints we get the following approximation.
+	- ![[Pasted image 20230914151216.png|417]]
+		- ###### This is the definition of a mid point Riemann sum

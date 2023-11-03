@@ -1,0 +1,24 @@
+## Degree structure
+- #### Sandwich
+	- core program requirements
+	- engineering sciences designs electives
+	- complementary electives
+	- coop work terms
+- #### Academic calendar
+	- check program rquirments
+		- ###### find prereqs here (under engineering sci)
+	- dates and deadlines
+	- verify prerequisites
+	- check poloices
+	- university regulations
+	- code of conduct 
+## plan  you schedule
+- #### Standard schedule
+	- select your courses from the schedule
+- #### Non standard schedule
+	- check out your schools course planning resources or speak with na academic advisor
+	- ### Recommended first term schedule 
+		- ###### ENSC common core
+			- all ensc students will take the same courses for their first two years
+				- 
+				- ![[future-20231016223600331.webp|567]]

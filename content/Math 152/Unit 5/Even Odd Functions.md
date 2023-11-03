@@ -1,0 +1,15 @@
+## 5.6
+- ### Even and odd functions
+	- #### if a function is even
+		- $\int _{-a}^{a}f(x) \, dx=2\int _{0}^a f(x)\, dx$
+	- #### if a function is odd
+		- $\int _{-a}^{a}f(x) \, dx=0$
+	- #### Ex.
+		- ###### a. $\int _{3}^3 (2x^4+3x^{2}+4)\,dx$
+			- => $2\int _{0}^{3} (2x^4+3x^{2}+4)\, dx$
+				- this makes it much easier as we can use just zero so we dont need to calculate the lower bound
+		- ###### b. $\int_{e}^e \frac{e^{u^2}\sin u}{u^2+10}\, du$
+			- => since its an even function being times by an odd the top of the fraction is odd then since its divided by even its still **odd**
+				- => since integrand is odd we know that its 0
+	- #### How to find if its even or odd
+		- $f_{1},f_{2},f_{3}$ these are odd but $f_{4}$ is even, we can think of it of it all being that all of the odd f are negatives and when we multiply with the even function it still is odd! same thing with division 

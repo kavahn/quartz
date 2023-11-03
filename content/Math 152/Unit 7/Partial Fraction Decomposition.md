@@ -1,0 +1,39 @@
+# Unit 7.4of [[Math 152]]
+## General form
+- #### Sppose 
+### Examples
+- ###### Example 3.11 b:
+	- $I=\int \frac{x^{3}-4x -1}{x(x-1)^{3}} \, dx$
+		- since there is a multiplicity 3 you must stretch it until the sum is the fraction
+			- -> $\frac{A}{x}+\frac{B}{(x-1)}+\frac{C}{(x-1)^{2}}+\frac{D}{(x-1)^{3}}$
+				- => $x^{3}-4x-1=(x-1)^{3}A+x(x-1)^{2}B+x(x-1)C+xD$
+					- multiplying through the denominator 
+					- [x^3] 1=A+B =>B=0
+					- [x^2] 0=-3A-2B+C => C=3
+					- [x^1] -4 =3A+b-C+d => D=-4
+					- [x^0] -1=-A  => A=1
+						- => the numbers in the front is from beginning in the coefficients of the corresponding multiplicity 
+							- $I=\int \frac{1}{x} \, dx+\int \frac{3}{(x-1)^2} \, dx+\int -\frac{4}{(x-1)^{3}} \, dx$ 
+								- => $\ln |x|-\frac{3}{}$
+- ###### Example c.
+	- $I=\int \frac{{5x^{3}-3x^{2}+2x -1}}{x^{4}+x^2} \, dx$ => we cant fully factor because its unfactorable quadratic => $x^{2}(x^{2}+1)$
+		- => $\frac{A}{x}+\frac{B}{x^{2}}+\frac{{C+Dx}}{x^{2}+1 }$
+			- =>$5x^{3}-3x^{2}+2x -1\implies x(x+1)A+(x^2+1)B+x^2C+x^{3}D$
+			- [x^3] 5= A+D -> D=3
+			- -3= B+C -> C=-2
+			- 2=A
+			- -1 = B
+				- $I+ 2\ln|x|+\frac{1}{x}-2\arctan x +\frac{3}{2}\ln(x^{2}+1)+C$
+- ###### Example d.
+	- $\int \frac{1}{x(x^2+1)^2} \, dx$ 
+		- => $\frac{A}{x} +\frac{{B+Cx}}{x^2+1}+\frac{{D+Ex}}{x^2+1}^2$
+			- left to you
+				- A=1
+				- B=0
+				- C=
+- ###### Example E 
+	- => using [[Volume of integrals Cylinders]]
+		- => $V=\int _{1}^{2}2\pi x\left( \frac{{x-9}}{x^2-3x} \right) \, dx$
+			- =>doing polynomail devistion 
+				- -> $\frac{{x-9}}{x-3}=1+\frac{{-6}}{x-3}$
+					- =>$V=\int _{1}^{2}2\pi\left( 1-\frac{6}{x-3} \right) \, dx$

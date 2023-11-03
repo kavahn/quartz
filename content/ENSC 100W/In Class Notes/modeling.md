@@ -1,0 +1,38 @@
+# possible test material for [[ENSC 100W]]
+
+## Design
+- #### What have we covered for design
+	- 1. what problem are we solving?
+	- 2. is the solution appropriate
+	- 3. is this solution feasible
+		- ###### generally speaoking, engineers do not guess!!!!
+			- medeling, prediction, scaling 
+				- good engineers understand 
+					- 1. solutions have multiple answers
+					- 2. no solution is perseft
+					- 3. the trade offs taken are understood and justified
+	- 
+- ### Mikes "laws"
+	- 1. pick resistors between (300ohm to 56k ohm)
+	- 2. when soldering, lowest profile components are installed first
+	- 3. never jump a connecton over/over a device
+	- 4 colour code
+	- at SFU you never use teh green common ground
+	- when is a device friend? too hot to touch
+- ### Efficiency
+	- #### Only engineers really care about efficiency
+		- -> tons of steel out/tons of coal in 
+			- always pay attention to the scaling of the demention
+		- -> when we increase the size look for the effiencency change
+			- -> scalar
+				- any unit can be applied anywhere
+- ### Mental models
+	- ##### -> mental models is any thing that helps the user to understand 
+		- they are good when they simplifing for users
+			- bad when making how the actual workinging of a thing is simplified to be wrong
+- ### Human behavour
+	- #### People as explanotory creatures
+		-  why do people hit buttons multiple times when first try fails?
+			- "in teh absense of external informations, people are free to let their imaginations run frree as long as the mental models they develoop account for the facts"
+- ### Hard to compute problems
+	- ###### Turbulent combustion

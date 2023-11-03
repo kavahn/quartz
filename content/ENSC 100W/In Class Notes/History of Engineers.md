@@ -1,0 +1,112 @@
+# Possible Quiz Material for [[ENSC 100W]]
+
+### Foundations of computing 
+- ##### "computing is the automation of thought"
+	- ###### The first step to automation
+		- is formalization
+			- describing the process to be automated as a series of simple operations 
+	- #### Aristotle -> Syllogism
+		- is a set of formal procedures -- the *syloogism* to capture the essence of rational thought
+			- "all cats are mammals, some cats have to tails, some mammals have no tails" 
+	- #### Euclid 
+		- Euclid formalizes geometry as a process of proving a series of theorems from a small number of axioms
+			- A=B
+			- B=C
+			- therefore, A=C
+- ##### Roman Engineering
+	- in the service of the military, "ingenium " and roads for the cities, aqueducts and architecture for houses, glass windows and central heating
+- ##### Islamic Science & Engineering
+	- ###### Al-Biruni (973 AD)
+		- "the trouble with most people is their extravagance in respect of Aristotle's opinions: *they belive that there is no possibility of mistake in his veiws*, though they know he was only theorizing to the best of his ability" 
+			- Aristotles #1 hater, tried to prove him wrong on everything
+	- #### Tech Transfer: islam to europe, 1100-1400
+		- roger II, king of Sicly, recuited Arab engineers to his court
+			- Hohenstaufen kings of germany inhertide Sicily and its engineers
+				- Henry the navigator, king of portugal, used islamic astronomical knowledge to explore new lands.
+- ##### Science in the reneaissance
+	- ###### Progress in Astronomy - Copernicus
+		- The relization of heliocentric world
+	- ###### Begining of the experimintal method - Bacon
+		- (1561-1626)
+			- roger bacon: first experimental scientist 
+				- ###### Science and engineering still distinct; no science of steam engines
+					- observation vs hands on
+	- #### Francis Bacon (1561-1626)
+		- founded the royal society
+			- Thought by some to have written the plays of shakespeore
+				- died of pneumonia contracted while inventing refrigeration
+		- ###### The advancemnt of Learning:
+			- "For as water will not ascend higher than the level of the first springhead for which it descendeth, so knowledge derived from eristotle and exempt from liberty and examiniation will not rise again higher than the knowledge of aristotle."
+				- Proposed a new understanding of science 
+## Industrial revolution
+- #### Technology
+	- ###### Laws of thermodynamics 
+		- ##### Accelerated tech because of steam engine-
+			- steam powered looms 
+			- factorys needed more workers
+		- ##### England enclosure act forced people to work in factories 
+			- factories where lound and unpleasant
+			- did this progreess better socitets
+			- (luddites rject technology/machinery)
+
+## 20th century science and technology
+- ###### Biggining
+	- science and technology have little in common
+		- ie, engineering is distinct from science
+- #### Science begins to demonstrate its usefulness on the battlefields of world war one
+- #### Two branches of engineers
+	- ###### milatary 
+		- Weapons
+		- tanks 
+	- ###### Civil engineer
+		- working on stuff for the people
+- ### After the industrial reqolution
+	- #### engineers started moving to universities
+		- ###### However most degrees didnt have any degrees
+			- henry ford
+			- edison
+			- wright brothers
+- ### Enineering: now and then 
+- ![[History of Engineers-20231015065037094.webp]] 
+### Cybernetics
+- #### Norbert wiener, founder of cybernetics and control
+
+### Military 
+- #### WW1 
+	- better guns produce stalemates 
+		- #### Breaking the stale mate
+			- ###### Poison gas
+			- ###### tanks
+			- ###### the flamethrowers
+- #### WW2
+	- #### Jet planes
+		- first jet planes where made by Germany in 1945
+			- #### this leaded to the v1 bomber which sparked the space age
+			- #### v3 was a gas assited super gun to lounch sattleites intoorbit###
+		- #### Nuclear
+			- 1942: Enric fermi builds the first nuclear reactor in the university of chicago squash courts
+				- ###### Era of nuclear of bomb
+					- huge boom of the "monster bombs"
+- #### DARPA
+	- investigates exotic technologies that may have defense applications
+		- 3.294 billion
+			- 600milion only for sociotal engineering (betterment of mankind)
+- #### After wars things go to from function over form to form over function
+
+### Societal 
+- engineers goald should be acting in the best interest of humanity
+	- #### Engineering education
+		- from 1822 to 1862, rensselear school goes from 1 year tech program to three years to 3 years with 1 year prep=4 years  
+			- sociaty needed more engineers then they created more technical schools and mit was born
+				- ###### Engineering sentiment
+					- engineering was regareded as a technology,
+						- they wernt respected
+							- alot of the negitive sentiment is still around
+		- 1870: lecture system established
+			- then the centenial expositon happend and engineering exploded in popularity 
+				- electriacal engineering didnt really exist but they where synomines with physicists
+		- ##### 1893 Engineering viewed as a legit form of higher education
+			- 1902 added course managemnt
+				- emphasis on lab in contrast to french method
+- from 1941 to 1968 
+	- 

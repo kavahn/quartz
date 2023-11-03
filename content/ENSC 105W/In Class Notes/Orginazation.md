@@ -1,0 +1,98 @@
+# Possible Quiz Material for [[ENSC 105W]]
+
+
+## Metacognition
+- #### Is a cycle!
+	- 1. ***Understand*** the assignment
+	- 2. ***Know*** strengths and weaknesses
+	- 3. ***Plan***
+	- 4. ***Apply*** strategiies and ***Monitor*** Preformance
+	- 5. ***Reflect*** and ***Change*** if needed
+		- ![[Pasted image 20230930174551.png|225]]
+	- 
+- #### Double and single loop learning
+	- ![[Pasted image 20230930175029.png]]
+
+## Keys to success
+- #### Attitude
+	- ##### Towards school
+		- not everyone recevise A's or B's
+		- You may work harder, but receive lower grades
+		- You must ask for help if you need it
+		- You might not be as good as you think you are
+		- But you can adjust to and enqoy the work
+		- measure success in terms of learning, not in grades
+			- ###### They dont grade on hard work; only on achievement
+	- ##### towards learining 
+		- ###### Memorizing faccts is not enough; in university, you are expected to
+			- understand and apply principles and concepts 
+			- intepret the meaning and significance of ideas
+			- think critically and question everything
+			- take notes, read optional material, conduct independant research
+			- take control of your own education
+			- learn how to learn for *life-long success*    
+- #### [[Academic Integrity]]
+	- academic integrity is taken very seriously
+		- can fail or be suspended for plagiarism and other forms of academic dishonesty
+	- Ignorace is no excuse. You are responisple for the material in the code of academic integrity and student conduct
+	- benig of good character is a requirment to become a professional engineer 
+		- any FD or suspension can hurt you in the long term
+- #### Reputation
+	- ##### What is a professional
+		- Masters and applies knowledge
+		- behaves in honest and fair ways
+		- respects others
+		- works independently and thinks critically 
+		- protects the interest of others
+		- works to improve the human condition
+	- Todays classmates are tommorrows coleagues
+	- who you know and what they think about you are among your greatest assets for a successful career
+	- todays ta may be tommorows supervisor
+	- people talk about classmates
+	- negative reputations are difficult to overcome
+	- one bad apple spoils the barrel (reputianon of organization)
+- #### [[Time management]]
+	- The attrition rate in egineering is quite high
+	- interviews with those who left engineering indicadted that time managment was one fo the biggest problems
+	- the fist two semesters/years are the most difficult
+		- help each other out and figure it out together
+	- time managemnt becomes even more important when you start your careers
+	- ##### TM tips
+		- *combine activities*
+		- *quality of time > quantity of time*
+			- 2 hours spent focusing intently upon a subject is worth 12 hours where you are contstantly interrupted
+		- *say no to distractions*
+		- *avoid perfectionism*
+		- *break large tasks into smaller ones*
+		- ### Plan ahead 
+			- *dont wait*
+			- *eating and sleeping are important*
+				- poor nutrition leads to  alack of energy
+				- limited sleep leads to a lack of concentarition
+			- *take breaks*
+				- breaks and exercise will maintanin your sanity 
+	- ### TM tools
+		- *pomodoro method*
+			- 25 min work, 5 min break
+		- *time tracking app*
+			- toggl track
+		- *to do lists*
+			- Eisenhower matrix
+		- *project milestones*
+			- ![[Pasted image 20231001141349.png|284]]
+- 
+## Advice
+- ###### make frinends and study groups
+- ###### Attend class
+- ###### keep up with material
+- ###### learn to study
+- ###### check email
+- ###### learn time managemnt skills
+- ###### pick up marked assignemns and exams
+
+## Writers block
+- ### Solutions
+	- #### Outlines 
+		- mind map
+			- organize 
+- 

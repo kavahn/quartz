@@ -1,0 +1,9 @@
+- ### The definite integral
+	- ##### It is defined as the area from x value a, to x value b expressed by the integral $\int_{a}^{b}f(x) \, dx$
+		- if it is a shape ie. triangle, square, semicircle we can just use its area formula, as they are defined as the same thing
+	- ##### You can get the integral from a to c by using two integrals added to each other 
+		- $\int_{a}^cf(x)  \, dx=\int _{a}^b f(x)\, dx+\int _{b}^{c}f(x) \, dx$
+	- ##### The integral from a to b will be the same as |b to a|
+	-  $\int_{a}^{b}f(x) \, dx=-\int_{b}^{a}f(x) \, d$
+		- ###### We can use [[Even Odd Functions]]
+			-  to solve really complicated a->b integrals
