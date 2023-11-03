@@ -55,3 +55,10 @@
 		- Peer reviewers
 		- grammarly
 		- word grammar editor 
+- #### Rewrite the introduction:
+	- ###### Always double check the introduction fits everything you wrote
+
+
+## Fleschkincaid grade level
+- #### Level of reading
+	- make sure your reading level is not too high or too low
