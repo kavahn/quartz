@@ -1,18 +1,15 @@
-
 # [[Math 152]]
 # Unit 5
 ``` dataview
 
-list
-from "Math 152/Unit 5"
+list from "Math 152/Unit 5"
 
 ```
 
 # Unit 6
 ``` dataview
 
-list
-from "Math 152/Unit 6"
+list from "Math 152/Unit 6"
 
 ```
 # Unit 7
