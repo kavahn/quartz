@@ -26,5 +26,15 @@
 						- now we can trace
 							- t=-2 is the starting point and you would graph it sequentialy as its defined by the parameter.
 							- ![[Parametric Equations-20231106030510106.webp]]
-							- 
 
+## Eliminating the Parameter
+- #### you can algebraically remove the parameter from the equation by solving for t then solving for y
+	- ### Ex. 
+		- $x=2t-1$ and $y=\frac{1}{2}t+1$
+			- we can solve for t
+				- $t=\frac{x+1}{2}$ and $t=2y-2$
+					- from there we can make an equation by canceling out t
+						- $t=\frac{x+1}{2}=2y-2$
+							- there we can solve for y
+								- $y=t=\frac{x+1}{4}+1$
+- 
