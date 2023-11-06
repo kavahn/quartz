@@ -1,10 +1,15 @@
+# Notes
 
+``` dataview
+
+table tags
+from "ENSC 105W/In Class Notes"
+
+```
 
 # Grading
 [[Persuasive Paper]] 30%
 [[Informative Research Paper]] 25%
-
-
 
 ## General
 - #### Attitude
@@ -29,8 +34,8 @@
 		- ###### logs are formal
 - #### Threshold Concepts
 	- ###### based on 
-- #### Myths
-	- 
+
+
 
 ### What is a professional?
 - Masters and applies specialized knowledge

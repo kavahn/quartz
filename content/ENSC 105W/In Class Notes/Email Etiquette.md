@@ -1,7 +1,3 @@
----
-dg-home: true
-dg-publish: true
----
 
 # Possible Quiz material for [[ENSC 105W]]
 

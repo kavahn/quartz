@@ -5,6 +5,4 @@
 - [[ENSC 105W]]
 - [[ENSC 100W]]
 
-Home work 
-
-testing
+[[Homework]]

@@ -1,3 +1,7 @@
+---
+tags:
+  - 11/3/23
+---
 
 # Notes for 11/3/23 [[ENSC 105W]]
 
@@ -62,3 +66,4 @@
 ## Fleschkincaid grade level
 - #### Level of reading
 	- make sure your reading level is not too high or too low
+

@@ -1,4 +1,12 @@
-.
+
+
+# Notes
+``` dataview
+
+table tags
+from "ENSC 100W/In Class Notes"
+
+```
 # Grading
 - #### Attendance/Mark
 	- ###### Removes lowest grade (in every category) before averaging 
