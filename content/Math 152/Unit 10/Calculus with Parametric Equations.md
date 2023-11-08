@@ -19,3 +19,7 @@
 				- $\implies L=\int _{\alpha}^{\beta}\sqrt{ (\frac{dx}{dt})^2+\left( \frac{dy}{dt} \right)^2 } \, dt$
 
 ## Surface Area
+- #### very simple as well :) same thing about [[Arc Length]]
+- ### Definition
+	- ## $S=\int _{\alpha}^{\beta}2\pi y\sqrt{ \left( \frac{dx}{dt} \right)^{2}+\left( \frac{dy}{dt} \right)^{2} } \, dt$
+	- 
