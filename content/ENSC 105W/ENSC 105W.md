@@ -1,4 +1,38 @@
+
+%% Begin Waypoint %%
+- **Assignments**
+	- [[Prelim 2]]
+	- [[Preliminary Assignments]]
+- **In Class Notes**
+	- [[Academic Integrity]]
+	- [[Citation]]
+	- [[Drafting Strategies]]
+	- [[Email Etiquette]]
+	- [[Grammar]]
+	- [[Logic in Arguments]]
+	- [[Oral Presentations]]
+	- [[Orginazation]]
+	- [[Persuasive Paper Issues]]
+	- [[Principles of form]]
+	- [[Principles of informing]]
+	- [[Principles of Persuasion]]
+	- [[Study Skills]]
+	- [[Styles]]
+	- [[Template]]
+	- [[The Writing Process]]
+	- [[Time management]]
+- **Papers**
+	- [[Informative Research Paper]]
+	- [[Persuasive Paper]]
+
+%% End Waypoint %%
+
+
+
 # Notes
+[[in class]]
+
+
 - [[Academic Integrity]]
 - [[Citation]]
 - [[Drafting Strategies]]
@@ -15,6 +49,7 @@
 - [[Template]]
 - [[The Writing Process]]
 - [[Time management]]
+- [[Persuasive Paper Issues]]
 
 
 # Grading
