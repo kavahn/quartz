@@ -1,12 +1,19 @@
 
 
 # Notes
-``` dataview
+- [[Code of Ethics & Law]]
+- [[Design Thinking]]
+- [[Engineering and the enviroment]]
+- [[Group work and management]]
+- [[History of Engineers]]
+- [[Logic]]
+- [[Project Next steps]]
+- [[Revising Strategies]]
+- [[Sustainability In Engineering]]
+- [[Thermodynamics]]
+- [[future]]
+- [[modeling]]
 
-table tags
-from "ENSC 100W/In Class Notes"
-
-```
 # Grading
 - #### Attendance/Mark
 	- ###### Removes lowest grade (in every category) before averaging 

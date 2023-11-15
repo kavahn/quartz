@@ -1,11 +1,21 @@
 # Notes
+- [[Academic Integrity]]
+- [[Citation]]
+- [[Drafting Strategies]]
+- [[Email Etiquette]]
+- [[Grammar]]
+- [[Logic in Arguments]]
+- [[Oral Presentations]]
+- [[Orginazation]]
+- [[Principles of Persuasion]]
+- [[Principles of form]]
+- [[Principles of informing]]
+- [[Study Skills]]
+- [[Styles]]
+- [[Template]]
+- [[The Writing Process]]
+- [[Time management]]
 
-``` dataview
-
-table tags
-from "ENSC 105W/In Class Notes"
-
-```
 
 # Grading
 [[Persuasive Paper]] 30%

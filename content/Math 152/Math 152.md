@@ -1,47 +1,43 @@
 # [[Math 152]]
 # Unit 5
-``` dataview
-
-list from "Math 152/Unit 5"
-
-```
+- [[Definite Integral]]
+- [[Even Odd Functions]]
+- [[Riemann Sums]]
+- [[The Fundamental Theorem Of Calculus]]
+- [[U Substitution]]
 
 # Unit 6
-``` dataview
+- [[Area Between Curves]]
+- [[Solids of Revolution]]
+- [[Volumes of integrals]]
+- [[Volume of integrals Cylinders]]
 
-list from "Math 152/Unit 6"
-
-```
 # Unit 7
-``` dataview
+- [[Approximate Integration]]
+- [[Integration By Parts]]
+- [[Partial Fraction Decomposition]]
+- [[Reduction Formulas]]
+- [[Trigonometric Integrals]]
+- [[Trigonometric Substitution]]
 
-list
-from "Math 152/Unit 7"
-
-```
 # Unit 8 
-``` dataview
-
-list
-from "Math 152/Unit 8"
-
-```
+- [[Areas in polar coordinates]]
+- [[Integrals with parametric]]
 
 # Unit 10
-``` dataview
+- [[Calculus with Parametric Equations]]
+- [[Parametric Equations]]
+- [[Polar Coordinates]]
 
-list
-from "Math 152/Unit 10"
-
-```
 
 # Unit 11
-``` dataview
+- [[Alternating Series Test]]
+- [[Convergence and Divergence]]
+- [[Integral test]]
+- [[Ratio Test]]
+- [[Root Test]]
+- [[Series]]
 
-list
-from "Math 152/Unit 11"
-
-```
 ## Important notes,
 
 
