@@ -26,32 +26,6 @@
 	- [[Persuasive Paper]]
 
 %% End Waypoint %%
-
-
-
-# Notes
-[[in class]]
-
-
-- [[Academic Integrity]]
-- [[Citation]]
-- [[Drafting Strategies]]
-- [[Email Etiquette]]
-- [[Grammar]]
-- [[Logic in Arguments]]
-- [[Oral Presentations]]
-- [[Orginazation]]
-- [[Principles of Persuasion]]
-- [[Principles of form]]
-- [[Principles of informing]]
-- [[Study Skills]]
-- [[Styles]]
-- [[Template]]
-- [[The Writing Process]]
-- [[Time management]]
-- [[Persuasive Paper Issues]]
-
-
 # Grading
 [[Persuasive Paper]] 30%
 [[Informative Research Paper]] 25%

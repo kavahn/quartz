@@ -1,18 +1,23 @@
 
 
-# Notes
-- [[Code of Ethics & Law]]
-- [[Design Thinking]]
-- [[Engineering and the enviroment]]
-- [[Group work and management]]
-- [[History of Engineers]]
-- [[Logic]]
-- [[Project Next steps]]
-- [[Revising Strategies]]
-- [[Sustainability In Engineering]]
-- [[Thermodynamics]]
-- [[future]]
-- [[modeling]]
+%% Begin Waypoint %%
+- [[Design project]]
+- **In Class Notes**
+	- [[Code of Ethics & Law]]
+	- [[Design Thinking]]
+	- [[Engineering and the enviroment]]
+	- [[future]]
+	- [[Group work and management]]
+	- [[History of Engineers]]
+	- [[Logic]]
+	- [[modeling]]
+	- [[Project Next steps]]
+	- [[Revising Strategies]]
+	- [[Sustainability In Engineering]]
+	- [[Thermodynamics]]
+
+%% End Waypoint %%
+
 
 # Grading
 - #### Attendance/Mark

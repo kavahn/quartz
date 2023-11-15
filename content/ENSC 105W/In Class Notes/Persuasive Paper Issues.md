@@ -84,3 +84,6 @@
 	- ###### Dichotomous thinking
 		- don't have a binary system
 			- use
+- ### Post Hocfallacy
+	- ###### post hoc
+		-  false causation
