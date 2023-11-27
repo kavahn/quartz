@@ -1,6 +1,6 @@
 # [[Math 152]]
 %% Begin Waypoint %%
-- [[Functions]]
+- [[Math 152/Functions]]
 - **Unit 5**
 	- [[Definite Integral]]
 	- [[Even Odd Functions]]

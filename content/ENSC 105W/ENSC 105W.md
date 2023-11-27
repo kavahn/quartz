@@ -9,6 +9,7 @@
 	- [[Drafting Strategies]]
 	- [[Email Etiquette]]
 	- [[Grammar]]
+	- [[Graphics]]
 	- [[Logic in Arguments]]
 	- [[Oral Presentations]]
 	- [[Orginazation]]
