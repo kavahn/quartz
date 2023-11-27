@@ -13,12 +13,11 @@
 	- [[modeling]]
 	- [[Project Next steps]]
 	- [[Revising Strategies]]
+	- [[Space Engineering]]
 	- [[Sustainability In Engineering]]
 	- [[Thermodynamics]]
 
 %% End Waypoint %%
-
-
 # Grading
 - #### Attendance/Mark
 	- ###### Removes lowest grade (in every category) before averaging 
