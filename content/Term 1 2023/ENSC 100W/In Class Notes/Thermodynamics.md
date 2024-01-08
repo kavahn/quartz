@@ -6,7 +6,8 @@
 
 ## Limitations of the newtonian model
 - ### Newtonian discribed everything that we can see
-	- ###### however there is magnetic phenomena
+	- ###### BUT WHAT WE CANT SEE DOESNT GET EXPLAINED:??!
+		- 
 
 ## The laws of thermodynamics
 - ### Zeroth law:
@@ -18,8 +19,10 @@
 	- #### Energy/heat can transfer
 		- for any system the total work going in or out equals the total heat going in or out
 - ### second law
-	- #### The entropy of a closed system can only go down
+	- #### The entropy of a closed system can only increaseN
 		- energy wants to spread out
+	- #### Carnot effienccy
+		- $n=\frac{T_{H}-T_{C}}{T_{H}}$
 - ### third law
 	- #### As the temperature approaches absolute zero
 		- the entropy of a system in equilibrium goes to zero.
@@ -29,6 +32,9 @@
 - #### sadi carnot, 1796-1832
 	- french engineer
 		- describs how heat=work can be done at low to high pressures
+- #### Rudolf Clausius, 1822-1888
+	- physicist and mathemetician
+	- formalized carnots results
 - ### Energy
 	- #### Watt = 1 joule/second
 	- #### One kilowatt-hour is 3.6MJ
@@ -39,3 +45,6 @@
 		- ###### Entropy is times errow
 			- you cant reincrease entropy 
 			- it is *irreversable*t
+- ### Entropy
+	- #### Entropy is inversly related to its quality (density)
+		- $\Delta S=\frac{\Delta Q}{T}$

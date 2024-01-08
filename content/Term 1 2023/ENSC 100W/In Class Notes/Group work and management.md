@@ -34,4 +34,28 @@
 				- Everyone selects a task
 				- Record tasks completed incomplete 
 			- ###### 4. Close
-- 
+
+
+## Tuckmans model of team development
+- ![[Group work and management-20240103021026061.webp]]
+- ### Forming
+	- socializiing, 
+	- displaying eagerness, 
+	- focusing on group identity 
+	-  purpose
+- ### Storming 
+	- lack of participation, 
+	- conflict, 
+	- competition
+- ### Norming 
+	- reconciliation, 
+	- relief, 
+	- supportive
+- ### Preforming
+	- independence, 
+	- healthy system, 
+	- stable, 
+	- production
+- ### Adjourning 
+	- sadness 
+	- recognition of efforts

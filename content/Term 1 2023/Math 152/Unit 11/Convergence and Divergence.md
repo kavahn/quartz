@@ -1,5 +1,5 @@
 
-# Unit 11.1 of [[math 152]]
+# Unit 11.1 of [[Math 152]]
 
 # What is a series?
 - #### when a funtion that is being added to infinity, not the terms to infinity!
