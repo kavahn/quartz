@@ -23,6 +23,26 @@ $$
 			- letting a and b very over all real numbers
 				- ###### This allows us to write any vector on the 2d plane
 - ### Span in 3d space
-	- #### Span in 3d space is like 3d printing
+	- #### 2d Span in 3d space is like 3d printing
 		- when we try to take the span for a 2d vector (vector with two numbers only) in 3d all the possible values (span) will only draw a flat 2d plane through the origin of teh 3d space
-		-  
+	- #### 3d span in 3d space
+		- ###### Again the span for this set is all possible linear combinations
+			- $a\vec{v}+b\vec{w}+c\vec{u}$ 
+				- with linear combinations for $\vec{v},\vec{w},\vec{u}$
+			- ###### however if the third vector is "trapped" in another vector it will produce the same span as a 2d vector intuitively 
+
+## Linear dependency
+- ### Redundent vector 
+	- ###### When a vector is trapped within another vector it is called 
+		- ####  *Linearly dependent*
+- ### You can write the linear dependent vector as a linear combination of the other vectors
+	- $\vec{u}=a\vec{v}+b\vec{w}$
+		- for some values of $\vec{a}$ and $\vec{b}$
+
+## Linear independence
+- ### Non reduntant vector
+	- ###### When teh vector is actually contributing it is called
+		- #### Linear independent
+- ### You can describe this 
+	- $\vec{u}=/=a\vec{v}+b\vec{w}$
+		- for all values of a and b
