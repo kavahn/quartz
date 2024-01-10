@@ -13,7 +13,7 @@ $$
 \end{matrix}
 = (3)\hat{i}+(-2)\hat{j}
 $$
-			- Very important -> "basis vectors"
+- Very important -> "basis vectors"
 				- showing the xy coordinate system
 	- ##### We can make our own basis vectors (hats) 
 		- to make infinite ways to make one vector
