@@ -1,8 +1,8 @@
 
 %% Begin Waypoint %%
 - **In Class notes**
+	- [[Basic Syntax]]
 	- [[What is Matlab]]
-- [[Untitled]]
 
 %% End Waypoint %%
 
