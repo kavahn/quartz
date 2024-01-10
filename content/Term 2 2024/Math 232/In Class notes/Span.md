@@ -5,7 +5,8 @@
 - ### The hats
 	- ##### we can think of the x and y axis as these scalars $\hat{i}$ and $\hat{j}$ 
 		- it is like the complex plane (WOW)
-			- ###### IE: $$
+			- ###### IE: 
+$$
 \begin{matrix}
 3 \\
 -2
