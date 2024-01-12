@@ -3,6 +3,8 @@
 - **In Class notes**
 	- [[Basic Syntax]]
 	- [[What is Matlab]]
+- **Labs**
+	- [[Lab 1]]
 
 %% End Waypoint %%
 

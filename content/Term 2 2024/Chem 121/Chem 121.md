@@ -1,6 +1,6 @@
 %% Begin Waypoint %%
 - **In Class Notes**
-	- [[Term 2 2024/Chem 121/In Class Notes/test]]
+	- [[test]]
 
 %% End Waypoint %%
 
