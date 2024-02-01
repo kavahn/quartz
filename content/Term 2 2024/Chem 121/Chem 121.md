@@ -1,5 +1,6 @@
 %% Begin Waypoint %%
 - **In Class Notes**
+	- [[Stoichiometry]]
 	- [[test]]
 
 %% End Waypoint %%

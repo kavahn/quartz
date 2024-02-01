@@ -5,6 +5,8 @@
 	- [[What is Matlab]]
 - **Labs**
 	- [[Lab 1]]
+	- [[Lab 2]]
+	- [[Lab 4]]
 
 %% End Waypoint %%
 
