@@ -1,0 +1,10 @@
+// Cloudflare builds this branch, but the real site is built locally by
+// deploy.sh and pushed to the `site` branch. This swaps it in before deploy.
+{
+  "name": "quartz", // must match the Worker's name in the Cloudflare dashboard
+  "compatibility_date": "2026-10-01",
+  "build": {
+    "command": "rm -rf public && mkdir public && git fetch -q --depth 1 https://github.com/kavahn/quartz.git site && git archive FETCH_HEAD | tar -x -C public"
+  },
+  "assets": { "directory": "./public", "not_found_handling": "404-page" }
+}
