@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: wiki.kavahn.com
+  baseUrl: kavahn.com
   ignorePatterns:
     - private
     - templates
