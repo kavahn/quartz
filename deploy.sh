@@ -3,7 +3,8 @@
 # which Cloudflare Pages serves as-is (no build command).
 set -e
 cd "$(dirname "$0")"
-npx quartz build
+# Real path so git dates come from the school-notes repo, not this one
+npx quartz build -d "$(cd content && pwd -P)"
 cd public
 rm -rf .git
 git init -q -b site
