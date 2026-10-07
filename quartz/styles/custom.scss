@@ -18,6 +18,13 @@ html body a.internal {
   }
 }
 
+// The theme maps --lightgray to mantle (darker than the page), which hides
+// graph edges and borders. Use surface1, Catppuccin's border/line color.
+// Selector outranks the theme's `:root:root[saved-theme=...]`.
+html:root:root[saved-theme] {
+  --lightgray: rgb(var(--ctp-surface1));
+}
+
 // Smooth light/dark switch
 html {
   scroll-behavior: smooth;
