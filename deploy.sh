@@ -1,15 +1,14 @@
 #!/bin/sh
-# Build from the local content/ symlink and publish public/ to the gh-pages branch.
+# Build from the local content/ symlink and publish public/ to the site branch,
+# which Cloudflare Pages serves as-is (no build command).
 set -e
 cd "$(dirname "$0")"
 npx quartz build
 cd public
-touch .nojekyll
-echo kavahn.com > CNAME
 rm -rf .git
-git init -q -b gh-pages
+git init -q -b site
 git add -A
 git commit -qm "Deploy $(date '+%Y-%m-%d %H:%M')"
-git push -qf https://github.com/kavahn/quartz.git gh-pages
+git push -qf https://github.com/kavahn/quartz.git site
 rm -rf .git
-echo "Deployed to https://kavahn.com"
+echo "Pushed. Cloudflare will publish https://kavahn.com in a minute."
