@@ -12,4 +12,9 @@ git add -A
 git commit -qm "Deploy $(date '+%Y-%m-%d %H:%M')"
 git push -qf https://github.com/kavahn/quartz.git site
 rm -rf .git
+cd ..
+# Cloudflare only builds on pushes to v4, so nudge it with an empty commit.
+# --only commits nothing from the index, so staged work stays staged.
+git commit -q --allow-empty --only -m "Deploy $(date '+%Y-%m-%d %H:%M')"
+git push -q origin HEAD:v4
 echo "Pushed. Cloudflare will publish https://kavahn.com in a minute."
